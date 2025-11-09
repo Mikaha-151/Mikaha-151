@@ -2,8 +2,11 @@
   <img src="https://media.tenor.com/Zf-Iuh5UL0IAAAAj/aesthetic.gif" width="180" align="right"/>
 </p>
 
-<h1 align="center">Mikaha!!🩷✨</h1>
-
+<h1 align="center"> Mikaha!!🩷✨ </h1>
+<div align="center"> 
+  
+**`✨ Creative Coder • Visual Storyteller • Cookie-fueled Dreamer! 🍪`**
+</div>
 <div align="center">
   
 <img src="https://i.imgur.com/bFCqrgi.gif" width="500">
@@ -15,7 +18,7 @@
 ### 🌷 About Me
 💭 Dreamer • 💻 Creator • 🌙 INFP  
 ✨ I love turning imagination into interactive art!  
-👻 Creator of *PookieGhosty!* — my little floating ghost friend  
+👻 Creator of *PookieGhosty!* (my little floating ghost friend)  
 🎨 I find joy in cute aesthetics, coding, and meaningful design  
 
 ---
@@ -33,9 +36,13 @@
 
 ![Mikaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikaha-151&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaha-151&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaha-151&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikaha-151&theme=radical&hide_border=true&background=00000000&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+<p align="center">
+  
+  **`⭐ Still growing my galaxy of commits! 💫`**
+</p>
 
 </div>
 
@@ -45,23 +52,16 @@
 
 <div align="center">
 
-#### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FF69B4)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### ⚡ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-#### 🎨 Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-#### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -124,10 +124,10 @@
 <div align="center">
 
 <p>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-💌-pink?style=for-the-badge"></a>
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-🌷-lightblue?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-👔-blue?style=for-the-badge"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-🐦-skyblue?style=for-the-badge"></a>
+  <a href="mailto:mikaha151@gmail.com"><img src="https://img.shields.io/badge/Email-💌-pink?style=for-the-badge"></a>
+  <a href="https://github.com/Mikaha-151"><img src="https://img.shields.io/badge/GitHub-🌷-lightblue?style=for-the-badge"></a>
+  <a href="https://www.sololearn.com/en/profile/27222493"><img src="https://img.shields.io/badge/SoloLearn-🌸-lightyellow?style=for-the-badge"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-🐦-lightgreen?style=for-the-badge"></a>
 </p>
 
 ### 💝 Support My Creative Journey
@@ -175,7 +175,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mikaha-151&color=ffb6c1&label=✨+Visitors"/>
 </p>
 
-**Thank you for visiting my magical corner of GitHub!** 💖
+**✨ Thank you for floating through my little corner of the web 🌙** 💖
 
 ⭐️ From [Mikaha](https://github.com/Mikaha-151)
 
