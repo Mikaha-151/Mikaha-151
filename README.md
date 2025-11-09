@@ -19,32 +19,7 @@
 💭 Dreamer • 💻 Creator • 🌙 INFP  
 ✨ I love turning imagination into interactive art!  
 👻 Creator of *PookieGhosty!* (my little floating ghost friend)  
-🎨 I find joy in cute aesthetics, coding, and meaningful design  
-
----
-
-### 💫 Currently
-🪄 Working on: *PookieGhosty 2.0*  
-🌿 Learning: GitHub, JS animations, and creative coding  
-📚 Exploring: Web magic ✨ + UI design 💖  
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Mikaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikaha-151&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&count_private=true)
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaha-151&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff) -->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikaha-151&theme=radical&hide_border=true&background=00000000&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
-<p align="center">
-  
-  **`⭐ Still growing my galaxy of commits! 💫`**
-</p>
-
-</div>
+🎨 I find joy in cute aesthetics, coding, and meaningful design!  
 
 ---
 
@@ -59,6 +34,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -69,6 +45,57 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.tenor.com/QJU7AAAG91QAAAAj/aesthetic-pink.gif" width="70" align="left"/>
+
+<table style="border-collapse: collapse; width: 90%;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding: 25px; border: 1px solid #d8b4fe; border-radius: 12px;">
+      <h3>💫 Currently</h3>
+      <ul>
+        <li>🪄 <strong>Working on:</strong> PookieGhosty 2.0</li>
+        <li>🌿 <strong>Learning:</strong> GitHub, JS animations, and creative coding</li>
+        <li>📚 <strong>Exploring:</strong> Web magic ✨ + UI design 💖</li>
+        <li>⚙️ <strong>Researching:</strong> Data Science 📊</li>
+      </ul>
+    </td>
+    <td style="width: 50%; vertical-align: top; padding: 25px; border: 1px solid #d8b4fe; border-radius: 12px;">
+      <h3>🧁 My Favorites</h3>
+      <ul>
+        <li>🌧️ Rainy days & night coding</li>
+        <li>🎵 Lo-fi beats & instrumental calm</li>
+        <li>📷 Art, photography, and pastel aesthetics</li>
+        <li>🌸 Anime, manga, and all things cozy-core</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
+ 
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Mikaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikaha-151&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4&text_color=#00fffb&count_private=true)
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikaha-151&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&text_color=ffffff) -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mikaha-151&theme=radical&hide_border=true&background=00000000&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+<p align="center">
+  
+  **`⭐ Still growing my galaxy of commits! 💫`**
+</p>
+
+</div>
+
+---
+
+
 
 <!-- <h1> ### 🌟 Project Showcase </h1> -->
 
@@ -111,14 +138,6 @@
 
 ---
 
-### 🧁 My Favorites
-🌧️ Rainy days & night coding  
-🎵 Lo-fi beats & instrumental calm  
-📷 Art, photography, and pastel aesthetics  
-🌸 Anime, manga, and all things cozy-core  
-
----
-
 ### 🌈 Connect & Support Me
 
 <div align="center">
@@ -158,7 +177,7 @@
 ### 💫 Today's Inspiration
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I+code+like+I+paint+dreams,+with+pastel+logic+and+sparkly+syntax.+💜"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I+code+like+I+paint+my+dreams+in+the+sky,+with+pastel+logic+and+sparkly+syntax.+💜"/>
 </p>
 
 ![Divider](https://i.imgur.com/bFCqrgi.gif)
@@ -166,6 +185,10 @@
 </div>
 
 ---
+
+
+  
+
 
 <div align="center">
 
@@ -175,8 +198,10 @@
   <img src="https://komarev.com/ghpvc/?username=Mikaha-151&color=ffb6c1&label=✨+Visitors"/>
 </p>
 
-**✨ Thank you for floating through my little corner of the web 🌙** 💖
+<img src="https://media.tenor.com/bZ57l4cit1QAAAAj/stars-cute-aesthetic.gif" width="80" align="left">
 
-⭐️ From [Mikaha](https://github.com/Mikaha-151)
+**✨ Thank you for floating through my little corner of the web! 🌙** 💖
+
+⭐️ From [Mikaha♥](https://github.com/Mikaha-151)
 
 </div>
