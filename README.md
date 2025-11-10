@@ -2,7 +2,10 @@
   <img src="https://media.tenor.com/Zf-Iuh5UL0IAAAAj/aesthetic.gif" width="180" align="right"/>
 </p>
 
-<h1 align="center"> Mikaha!!🩷✨ </h1>
+<div align="center">
+<img src="username.svg" width="600">
+</div>
+  
 <div align="center"> 
   
 **`✨ Creative Coder • Visual Storyteller • Cookie-fueled Dreamer! 🍪`**
