@@ -15,7 +15,7 @@
 
 ---
 
-### 🌷 About Me
+### <img src="https://i.imgur.com/07OsfRQ.gif" width="30" />  About Me
 💭 Dreamer • 💻 Creator • 🌙 INFP  
 ✨ I love turning imagination into interactive art!  
 👻 Creator of *PookieGhosty!* (my little floating ghost friend)  
@@ -77,7 +77,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://i.imgur.com/rktBb3j.gif" width="40" /> GitHub Stats
 
 <div align="center">
 
