@@ -135,6 +135,11 @@
 </div>
 
 </div> -->
+<div align="center">
+  
+![Divider](https://media.tenor.com/Xnybf3jhseIAAAAj/divider.gif)
+  
+</div>
 
 ---
 
@@ -205,3 +210,9 @@
 ⭐️ From [Mikaha♥](https://github.com/Mikaha-151)
 
 </div>
+<div align="center">
+  
+![Divider](https://media.tenor.com/gji5krLo2R8AAAAi/end-discord.gif)
+  
+</div>
+
