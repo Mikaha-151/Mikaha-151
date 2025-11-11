@@ -1,4 +1,4 @@
-.<p align="center">
+<p align="center">
   <img src="https://media.tenor.com/Zf-Iuh5UL0IAAAAj/aesthetic.gif" width="180" align="right"/>
 </p>
 
